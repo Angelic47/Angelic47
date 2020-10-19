@@ -17,8 +17,3 @@ I'm a security engineer. Good at software reverse engineering, software security
 - Blog [@Angelic47's Blog](https://www.angelic47.com)
 - Email [Follow Up Here](mailto:admin@angelic47.com)
 
-## 👀 Some cool stuff to look into 
-
-Have a look at pinned projects below.
-
-
