@@ -23,6 +23,6 @@ I'm a security & hardware engineer. Good at software reverse engineering, softwa
 
 ## 📮 How to reach me
 
-- ~~~Blog [@Angelic47's Blog]~~ No idea what to write...
+- ~~Angelic47's Blog~~ No idea what to write...
 - Email [Follow Up Here](mailto:admin@angelic47.com)
 
