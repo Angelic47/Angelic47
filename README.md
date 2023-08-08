@@ -7,19 +7,19 @@ I'm a security & hardware engineer. Good at software reverse engineering, softwa
 ## 💬 Worked language for me
 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++ 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Assembly
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / C# / Java
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript / PHP
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Assembly 
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / C# / Java 
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript / PHP 
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more... 
 
 ## 🛠 Skills
 
-- ✅   Web Security / Binary Security
-- ✅   Software Developing / Reversing
-- ✅   PCB Design & Soldering
-- ✅   FPGA IP Design
-- ✅   Misc like 3D Printing, CAD, Laser cutting, CNC etc...
-- ✅   And more, which just my hobby...
+- ✅   Web Security / Binary Security 
+- ✅   Software Developing / Reversing 
+- ✅   PCB Design & Soldering 
+- ✅   FPGA IP Design 
+- ✅   Misc like 3D Printing, CAD, Laser cutting, CNC etc... 
+- ✅   And more, which just my hobby... 
 
 ## 📮 How to reach me
 
