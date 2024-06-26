@@ -26,26 +26,25 @@ Hello! I am a Security and Hardware Engineer with expertise in Software Reverse 
 - ~~Angelic47's Blog~~ No idea what to write...
 - Email [Follow Up Here](mailto:admin@angelic47.com)
 
-## ⚠️ Notice
-I dont have any social media account (twitter, facebook, instagram, weibo, zhihu, xiaohongshu, etc...), 
-If you see any account with my name on social media, it's **definitely** not me. 
- 
-For IM (Telegram, QQ, Wechat, etc...), I only have **one** account and normally I will not accept any friend request from stranger. 
-If you want to contact with me, please send email to me. Dont't worry about no reply, I will reply you if I see it. 
+## ⚠️ Official Statement: 
+**严正声明:**
 
-**!!BEAWARE OF SCAMMER!!** There does have some scammer uses my name and says that is me, or says that they are my alt account.
-Don't trust them, they are all scammer. **I will never ask you to send me money or any other things, or ask you to do something illegal.** 
+在社区好友的提醒下，  
+我留意到由[长沙开发者科技有限公司](https://www.tianyancha.com/company/3470940218)旗下[北京创新乐知网络技术有限公司](https://www.tianyancha.com/company/3049500520)（CSDN (https://www.csdn.net/) 运营方）及[重庆开源共创科技有限公司](https://www.tianyancha.com/company/5924520331)（下附邮件中称之为“贵司”）所搭建的 [GitCode](https://gitcode.com/) 代码托管平台在**未告知我**的情况下镜像了[我于 GitHub 平台的Angelic47账号](https://github.com/angelic47/) 的数个活跃仓库、工单及合并请求。  
 
-Also, because I have participated in many projects, I cannot rule out the possibility that **someone will impersonate me** sometimes to satisfy their own vanity.  
-What they do has nothing to do with me, please **don't confuse** them with me.  
-If you are not sure if it is me, please send me an email to confirm.  
+我在此声明：https://gitcode.com/angelic47 和我本人**没有任何关系**。  
+GitCode 平台上的上述组织**与我无关**，上述行为属于**对我名义的冒用**，我**从未获知及同意**该做法。  
+考虑到该平台以我的名义发布镜像前未尊重我的意愿，我本人对该行为给予强烈谴责，并予以公示。  
+同时，我本人**不为**该平台中的任何代码贡献负责，亦**不受理**在该平台上的任何用户咨询和投诉。  
+因该平台上的内容非我本人发布，我本人**也不为该平台中的任何与我相关的内容承担任何责任**。  
 
-我没有任何社交媒体账号（twitter, facebook, ins, 微博, 知乎, 小红书等等），如果你看到任何社交媒体账号使用我的名字，那**一定**不是我本人.  
-对于即时通讯软件（Telegram, QQ, 微信等等）, 我**有且只有一个**账号, 且通常我不会接受陌生人的好友请求.  
-如果你想联系我, 请发邮件给我. 不用担心我不回复，我会看到邮件的话就会回的.  
+Upon being alerted by community friends,  
+I have noticed that several active repositories, issues, and pull requests,  
+from my [Angelic47 account on the GitHub platform](https://github.com/angelic47/) have been mirrored **without my knowledge** on the [GitCode](https://gitcode.com/) code hosting platform, operated by [北京创新乐知网络技术有限公司](https://www.tianyancha.com/company/3049500520) ([CSDN](https://www.csdn.net/) operator), under the umbrella of [长沙开发者科技有限公司](https://www.tianyancha.com/company/3470940218); and [重庆开源共创科技有限公司](https://www.tianyancha.com/company/5924520331)
 
-**!!谨防诈骗!!** 确有一些骗子使用我的名字, 说是我本人, 或者说是我的小号.  
-请不要相信他们, 他们都是骗子. **我不会向你要钱或者其他任何东西, 也不会让你做任何违法的事情.**  
-
-同时, 因为我参与的项目比较多, 我不能排除有时候**有人会冒充我**, 以满足他们自己的虚荣心. 他们所作所为与我无关, **请不要弄混**.  
-如果你不确定是不是我本人, 请发邮件给我确认.  
+I hereby declare: https://gitcode.com/angelic47 has **no affiliation** with me.  
+The aforementioned organizations on the GitCode platform are **unrelated** to me, and their actions constitute an **unauthorized use** of my name.  
+I have **never been informed** of or consented to this practice.  
+Given that the platform published the mirror in my name without respecting my wishes, I **strongly condemn** this behavior and publicly announce it.  
+Furthermore, I am **NOT** responsible for any code contributions on this platform and will not address any user inquiries or complaints related to it.  
+Since the content on this platform was not published by me, **I DO NOT assume any responsibility for any related content on this platform**.  
