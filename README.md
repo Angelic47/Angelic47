@@ -30,7 +30,7 @@ Hello! I am a Security and Hardware Engineer with expertise in Software Reverse 
 **严正声明:**
 
 在社区好友的提醒下，  
-我留意到由[长沙开发者科技有限公司](https://www.tianyancha.com/company/3470940218)旗下[北京创新乐知网络技术有限公司](https://www.tianyancha.com/company/3049500520)（CSDN (https://www.csdn.net/) 运营方）及[重庆开源共创科技有限公司](https://www.tianyancha.com/company/5924520331)（下附邮件中称之为“贵司”）所搭建的 [GitCode](https://gitcode.com/) 代码托管平台在**未告知我**的情况下镜像了[我于 GitHub 平台的Angelic47账号](https://github.com/angelic47/) 的数个活跃仓库、工单及合并请求。  
+我留意到由[长沙开发者科技有限公司](https://www.tianyancha.com/company/3470940218)旗下[北京创新乐知网络技术有限公司](https://www.tianyancha.com/company/3049500520)（CSDN (https://www.csdn.net/) 运营方）及[重庆开源共创科技有限公司](https://www.tianyancha.com/company/5924520331) 所搭建的 [GitCode](https://gitcode.com/) 代码托管平台在**未告知我**的情况下镜像了[我于 GitHub 平台的Angelic47账号](https://github.com/angelic47/) 的数个活跃仓库、工单及合并请求。  
 
 我在此声明：https://gitcode.com/angelic47 和我本人**没有任何关系**。  
 GitCode 平台上的上述组织**与我无关**，上述行为属于**对我名义的冒用**，我**从未获知及同意**该做法。  
